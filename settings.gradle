@@ -1,2 +1,3 @@
 rootProject.name = "TwinUiApp"
 include ':TwinUi'
+include ':twinapp'
